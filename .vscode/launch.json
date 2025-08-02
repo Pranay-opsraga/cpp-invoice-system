@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/pranaysharma/coding files /DSA/Simple invoice system/cpp-invoice-system",
+      "program": "/Users/pranaysharma/coding files /DSA/Simple invoice system/cpp-invoice-system/build/Debug/outDebug"
+    }
+  ]
+}
